@@ -217,7 +217,7 @@ import 'package:flutter/material.dart';
 import 'dart:ui';
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
